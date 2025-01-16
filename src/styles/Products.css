@@ -1,0 +1,35 @@
+.product-jew{
+    text-align: center;
+    justify-content: center;
+}
+.jew{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.all-products{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    text-align: center;
+}
+
+.main3{
+    position: relative;
+    bottom: 200px;
+}
+
+.product-btn{
+    width: 255px;
+    height: 40px;
+}
+
+.all-products2{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    text-align: center;
+    padding-top: 15px;
+}

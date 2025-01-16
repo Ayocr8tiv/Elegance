@@ -1,0 +1,53 @@
+.hero-image{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    z-index: 1;
+    position: absolute;
+}
+
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  .discover{
+    padding: 50px;
+    margin-top: 84px;
+  }
+
+  .hero-btn1{
+    width: 53px;
+    height: 31px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+  .hero-btn2{
+    border-radius: 5px;
+    width: 100px;
+    height: 31px;
+}
+
+.hero-btn{
+    display: flex;
+    gap: 26px;
+    margin-top: 60px;
+}
+
+.hero-img{
+    display: flex; 
+    gap: 80px;
+    margin-top: 70px;
+    position: relative;
+    z-index: 2;
+}
+
+.image-up{
+    position: relative;
+    bottom: 250px;
+}
+
+

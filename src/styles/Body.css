@@ -1,0 +1,86 @@
+.main2{
+    padding: 50px;
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body-img{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 800px;
+    position: relative;
+    bottom: 470px;
+    
+
+}
+
+.body-text{
+    flex: 1;
+}
+
+.body-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.body-btn1{
+    width: 53px;
+    height: 31px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.body-btn{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-top: 33px;
+}
+
+.body-btn2{
+    display: flex;
+    gap: 5px;
+}
+
+.icon{
+    width: 15;
+    height: 15px;
+    position: relative;
+    top: 5px;
+}
+
+.exp{
+    display: flex;
+    gap: 30px;
+}
+
+.jewelry{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 400px;
+}
+
+.text-center{
+    display: flex;
+    text-align: center;
+}
+
+.the-jewelry{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 300px;
+    text-align: center;
+}
+
+.arrow-mi{
+    width: 15;
+    height: 15px;
+    position: relative;
+    top: 2.5px;
+}
