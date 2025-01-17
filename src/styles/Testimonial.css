@@ -1,0 +1,41 @@
+.main4{
+    padding: 50px;
+    position: relative;
+    bottom: 170px;
+}
+
+.tes-paragraph{
+    position: relative;
+    bottom: 65px;
+    left: 70px;
+}
+
+.test-img{
+    width: 50px;
+    height: 50px;
+}
+
+.tes-img{
+    margin-top: 50px;
+}
+
+.dot{
+    position: relative;
+    bottom: 40px;
+}
+
+.all-tes{
+    position: relative;
+    top: 60px;
+}
+
+.tes-align{
+    display: flex;
+    gap: 200px;
+}
+
+.arrow-img{
+    position: relative;
+    left: 500px;
+    bottom: 50px;
+}
